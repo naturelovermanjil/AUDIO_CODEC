@@ -1,6 +1,6 @@
-# 4-Bit Adder in VHDL
+# 4-Bit Adder in VHDL   
 
-This repository contains the implementation of a **4-bit adder** in VHDL. The design includes a carry-in (`Cin`) and carry-out (`Cout`) signal and can perform addition of two 4-bit binary numbers.
+implementation of a **4-bit adder** in VHDL. The design includes a carry-in (`Cin`) and carry-out (`Cout`) signal and can perform addition of two 4-bit binary numbers.
 
 ---
 
