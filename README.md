@@ -1,10 +1,12 @@
 
-implementation of a **4-bit adder** in VHDL. The design includes a carry-in (`Cin`) and carry-out (`Cout`) signal and can perform addition of two 4-bit binary numbers.
+This VHDL code creates an audio controller that uses a clocked protocol (like I2S) to send stereo audio data serially. It produces clocks, uses a state machine to switch between left and right channels, and delivers the audio data as a serial bitstream.
 
-
-modelsim and xilinx vivado as simulator
-
-
+Hardware :
+FPGA board - Xilinx 
+Clock source and audio interface (e.g., DA7212 DAC).
+Software :
+VHDL design tools: Xilinx Vivado 
+Simulation tools: ModelSim 
 
 
 
