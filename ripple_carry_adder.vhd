@@ -57,5 +57,5 @@ begin  -- gate
   s_out(2) <= F xor Carry_fa;
   G        <= F and Carry_fa;
   H        <= a_in(2) and b_in(2);
-  s_out(1) <= G or H;
+  s_out(3) <= G or H;
 end gate;
